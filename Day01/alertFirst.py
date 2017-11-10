@@ -1,1 +1,4 @@
-print('hello word')
+def testPrint():
+    print('Hello Word')
+
+#testPrint()
